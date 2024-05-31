@@ -43,8 +43,8 @@ header{
 }
 
 .top-bg-section{
-    background-image:url(/bootstrap_hw1/img/coffee1.png);
-    height: 500px;
+    background-image:url(/img/coffee1.png);
+    height: 501px;
     background-position:center;
     background-repeat: no-repeat;
 }
@@ -87,7 +87,7 @@ header{
 }
 .bottom-bg-section{
     justify-content: center;
-    background-image:url(/bootstrap_hw1/img/cafe1.png);
+    background-image:url(/img/cafe1.png);
     height: 500px;
     background-position: center ;
     background-repeat: no-repeat;
